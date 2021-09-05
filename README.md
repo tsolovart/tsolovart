@@ -29,6 +29,7 @@
 - :helicopter: Drones | DJI
 - :movie_camera: Video | Sony, Canon, Adobe Premiere, DaVinci Resolve
 - :art: Design | package Adobe Creative Cloud, Figma, Cinema 4D
+- :mountain: :camping: :snowboarder: :biking_man: :running_man: :rowing_man: 
 
 
 ## Follow ***me***
