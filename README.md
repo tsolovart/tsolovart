@@ -1,5 +1,5 @@
 
-#### 👋 Hey! I'm a passionate iOS Developer based in Moscow (Russia)
+#### 👋 Hey! I'm an iOS Developer based in Moscow (Russia)
 
 ### Skills:
 - 🍎 iOS Development - I have 1+ years experience with building iOS Apps, my strongest language is Swift! <details> <summary><b>See Technologies</b></summary><ul>
@@ -9,6 +9,7 @@
   <li>API</li>
   <li>Cocoapods</li>
   <li>JSON</li>
+  <li>Firebase</li>
   <li>Stack View</li>
   <li>Auto Layout</li>
 </ul></details> 
